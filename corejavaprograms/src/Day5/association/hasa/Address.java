@@ -1,6 +1,8 @@
-package dayfive.association.hasa;
+package Day5.association.hasa;
 
+//Contained class
 public class Address {
+
 	private String street;
 	private String city;
 	private String state;
@@ -54,3 +56,5 @@ public class Address {
 	}
 
 }
+
+

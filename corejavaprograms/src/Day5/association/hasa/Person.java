@@ -1,4 +1,4 @@
-package dayfive.association.hasa;
+package Day5.association.hasa;
 
 public class Person {
 	private String name;

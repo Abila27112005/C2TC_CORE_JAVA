@@ -1,4 +1,4 @@
-package om.tnsif.Day7.overloading.v1;
+package com.tnsif.Day7.overloading.v1;
 
 public class MethodOverloading {
 	public static int addition(int a, int b) {
